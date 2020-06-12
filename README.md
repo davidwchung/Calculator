@@ -1,4 +1,6 @@
-### IntelliJ
+This is a calculator developed to evaluate expressions, including those with symbols like parentheses.
+
+### Running unit tests
 In order to use the Unit tests given you will need to let IntelliJ know where to find the needed jars. (jars are just java version of an archived folder or zip file.).
 
 IntelliJ will actually find these jars for you while importing the project.
