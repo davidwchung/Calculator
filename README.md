@@ -1,19 +1,7 @@
-# CSC 413 - Project One
+### IntelliJ
+In order to use the Unit tests given you will need to let IntelliJ know where to find the needed jars. (jars are just java version of an archived folder or zip file.).
 
-## Student Name  : David Chung
-
-## Student ID    : 917604212
-
-## Student Email : dchung3@mail.sfsu.edu
-
-### Note failure to completely fill out this README.md could cause you to recieve a  0 for your project until correctly done
-
-## Adding the JUnit 5 Jars to your project.
-
-### InteliJ
-In order to use the Unit tests given you will need to let intelij know where to find the needed jars. (jars are just java version of an archived folder or zip file.).
-
-Intelij will actually find these jars for you while importing the project.
+IntelliJ will actually find these jars for you while importing the project.
 
 If for some reason it does not, you can add the jars in the following way:
 
